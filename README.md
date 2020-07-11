@@ -43,10 +43,3 @@ By saving the paths produced in training (not something the model will presently
 
 ---
 
-### Contact
-
-Should you have any queries or suggestions (all welcome), you should contact either:
-
-- [t.ryder2@ncl.ac.uk](mailto:t.ryder2@ncl.ac.uk)
-
-- [dennis.prangle@ncl.ac.uk](mailto:dennis.prangle@ncl.ac.uk)
